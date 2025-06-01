@@ -1,5 +1,5 @@
 ````markdown
-# Aula 4: Comentários em JavaScript
+# # Resumo da Aula: 11. Comentarios de códigos
 
 ## 🧠 O que são comentários?
 - São trechos de código **ignorados** pela engine do JavaScript.
