@@ -1,4 +1,6 @@
-## 📚 Estudos de Programação
+## 📚 Estudos de Programação com o Curso de JavaScript e TypeScript do básico ao avançado JS/TS
+## Professor: Luiz Otávio Miranda
+
 
 Este repositório foi criado com o objetivo de organizar e documentar minha jornada de estudos na área de desenvolvimento de software. Aqui você encontrará anotações, exercícios, projetos práticos e resumos teóricos sobre diversas tecnologias e conceitos da programação.
 
