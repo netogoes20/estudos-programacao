@@ -1,7 +1,3 @@
-Claro! Aqui está um exemplo de **descrição organizada e profissional** para um repositório no GitHub com foco em **estudos de programação**. Você pode adaptar de acordo com o que exatamente há no seu repositório:
-
----
-
 ## 📚 Estudos de Programação
 
 Este repositório foi criado com o objetivo de organizar e documentar minha jornada de estudos na área de desenvolvimento de software. Aqui você encontrará anotações, exercícios, projetos práticos e resumos teóricos sobre diversas tecnologias e conceitos da programação.
